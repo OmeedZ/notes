@@ -1,0 +1,2 @@
+Random r =newRandom()
+r.nextInt(10000)
